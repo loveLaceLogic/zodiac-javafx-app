@@ -39,6 +39,10 @@ Use the following VM arguments:
 ### Invalid Result Window
 <img width="352" height="175" alt="invalid-results" src="https://github.com/user-attachments/assets/1a21ea9f-8b5d-4c9e-9262-981c74727cc5" />
 
+### Download
+Download the macOS installer from the Release page.
+
+
 ### Future Improvements
 - Add zodiac animations
 
